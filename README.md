@@ -19,7 +19,7 @@ You can view a [live demo](https://module3-tan.vercel.app/) of the project
 1. Clone the repository:
    ```bash
    git clone https://github.com/Fulwing/BlogDemo.git
-   cd module3-group-528633-518060
+   cd BlogDemo
    ```
 
 2. Install dependencies:
