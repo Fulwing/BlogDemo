@@ -18,7 +18,7 @@ You can view a [live demo](https://module3-tan.vercel.app/) of the project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cse330-fall-2024/module3-group-528633-518060.git
+   git clone https://github.com/Fulwing/BlogDemo.git
    cd module3-group-528633-518060
    ```
 
